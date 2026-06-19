@@ -1,0 +1,25 @@
+manifestVersion: 1.1
+id: dnc-content-gateway
+name: Content Gateway
+x-icon: https://raw.githubusercontent.com/rleed/umbrel-auxiliary-app-store/master/images/xyz/icon.svg
+tagline: Content Gateway
+category: Developer Tools
+version: "0.0.0"
+port: 8777
+description: >-
+  Content Gateway is an API for gating content behind a Core Lightning node.
+
+gallery: []
+developer: rleed
+website: https://github.com/rleed
+submitter: rleed
+submission: https://github.com/rleed/umbrel-content-gateway
+repo: https://github.com/rleed/umbrel-content-gateway
+support: https://github.com/rleed/umbrel-content-gateway
+releaseNotes: |-
+  None
+
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
