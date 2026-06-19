@@ -4,7 +4,7 @@ name: Content Gateway
 x-icon: https://raw.githubusercontent.com/rleed/umbrel-auxiliary-app-store/master/images/xyz/icon.svg
 tagline: Content Gateway
 category: Developer Tools
-version: "0.0.7"
+version: "0.0.8"
 port: 8777
 description: >-
   Content Gateway is an API for gating content behind a Core Lightning node.
